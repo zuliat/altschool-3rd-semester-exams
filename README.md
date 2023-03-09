@@ -1,3 +1,5 @@
+[My 3rd semester exam project link](https://altschool-3rd-semester-exams.vercel.app/).
+
 # altschoolvue_exams
 
 ## Project setup
